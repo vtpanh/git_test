@@ -1,1 +1,1 @@
-# git_test
+Hello, first day practicing git and coding!
